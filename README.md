@@ -1,4 +1,3 @@
-# diversification-vs-volatility
 
 # 📈 Portfolio Diversification and Risk Reduction
 
@@ -16,3 +15,24 @@ The notebook explores how different portfolio compositions affect overall volati
   - 📈 **Return**
   - 🧠 **Sharpe Ratio**
 - Demonstrated that diversified portfolios offer better risk-adjusted returns than concentrated ones.
+
+- ## 📁 Dataset
+
+The dataset contains historical stock prices of the NIFTY 50 companies. It is organized as `.csv` files grouped by company. The data includes:
+
+- Date-wise Open, High, Low, Close, and Volume
+- Extracted from [Kaggle: NIFTY 50 Stocks](https://www.kaggle.com/datasets/soumendraprasad/nifty50-stocks) by Soumendra Prasad.
+
+## 🛠 Technologies
+
+- Python
+- Jupyter Notebook
+- `pandas`, `numpy`, `matplotlib`, `seaborn`
+
+## 🚀 How to Run
+
+1. Clone this repository
+2. Open `project.ipynb` in Jupyter Notebook or Google Colab
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/deshnalovestats/diversification-vs-volatility/blob/main/project.ipynb)
+
